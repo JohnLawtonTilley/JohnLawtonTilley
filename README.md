@@ -1,5 +1,5 @@
 <h1>⭐️ Hello, everyone!</h1>
-<p>I'm <strong>John</strong>, a senior software engineer from the United States. Welcome to the exciting realm of game and blockchain development, with a special focus on ad integration. ✨ With my expertise in coding and passion for creating impactful experiences, I'm dedicated to crafting immersive games and blockchain solutions that seamlessly incorporate advertising.</p>
+<p>I'm <strong><span style="color: #FF69B4;">John</span></strong>, a senior software engineer from the United States. Welcome to the exciting realm of game and blockchain development, with a special focus on ad integration. ✨ With my expertise in coding and passion for creating impactful experiences, I'm dedicated to crafting immersive games and blockchain solutions that seamlessly incorporate advertising.</p>
 
 <p>In the world of game development, I specialize in integrating ads to help developers monetize their games effectively. ✅ I understand the delicate balance between user experience and revenue generation, and I strive to find the perfect equilibrium. By strategically implementing ad placements and formats, I ensure uninterrupted gameplay while providing valuable opportunities for advertisers to engage with their target audience. 🎮💰</p>
 
